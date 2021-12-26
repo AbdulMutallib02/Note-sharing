@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid img{
+    height: 50px;
+    border-radius: 10px;
+}
+
+.para h2{
+    font-size: 6rem;
+    letter-spacing: 2px;
+    text-transform:capitalize;
+    color: #a4c9c9;
+}

@@ -29,7 +29,7 @@ function App() {
           <Route path="/Profile" element={<Profile/>} exact/>
           <Route path="/Registration" element={<Registration/>} exact/>
           <Route path="/Login" element={<Login/>} exact/>
-          {/* <Route path="/" element={<Home />} exact /> */}
+          <Route path="/" element={<Home />} exact />
         </Routes>
         </Container>
       </BrowserRouter>
