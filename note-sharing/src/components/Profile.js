@@ -8,7 +8,7 @@ function Profile() {
           <Form.Label>Multiple files input example</Form.Label>
           <Form.Control type="file" multiple />
         </Form.Group>
-        
+        <button className="btn btn-secondary my-2 my-sm-0" type="submit">Upload</button>
       </>
   );
 }
